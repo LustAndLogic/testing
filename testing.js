@@ -7,9 +7,3 @@ while (j <= 10) {
     console.log(j);
     j++;
 }
-
-let k = 0;
-do {
-    console.log(k);
-    k++;
-}while (k <= 10);
